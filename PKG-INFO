@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: bingback
+Version: 1.0
+Summary: This package have 3 method. one for get the url of the day you want. one for get a list of urls by pass the range. one for set background by pass the day. It can run from command line and change desktop background.
+Home-page: https://git.pe42.ir/roozbeh/Bingback-Package
+Author: Wabbajack
+Author-email: roozbeh279@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

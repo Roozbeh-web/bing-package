@@ -1,0 +1,8 @@
+setup.py
+bingback/__init__.py
+bingback.egg-info/PKG-INFO
+bingback.egg-info/SOURCES.txt
+bingback.egg-info/dependency_links.txt
+bingback.egg-info/not-zip-safe
+bingback.egg-info/requires.txt
+bingback.egg-info/top_level.txt
